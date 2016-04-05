@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Base\n"
+"POT-Creation-Date: 2014-05-05 14:21-0500\n"
+"PO-Revision-Date: 2014-05-05 14:21-0500\n"
+"Last-Translator: Rich Tabor <hello@themebeans.com>\n"
+"Language-Team: ThemeBeans <hello@themebeans.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;bean\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/sidebars/classes/class.radiumsidebars.php:353
+msgid "Description"
+msgstr ""
+
+#: ../admin/sidebars/sidebars.php:47
+msgid ""
+"In the <a href=\"edit.php?post_type=sidebar\">Widget Area Manager</a>, you "
+"can create and manage widget areas for specific pages of your website to "
+"override the default locations you see below."
+msgstr ""
+
+#: ../functions/comments.php:32
+msgid ""
+"\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting "
+"moderation</span>\\n"
+msgstr ""
+
+#: ../functions/theme-functions.php:227
+msgid "Author"
+msgstr ""
+
+#: ../functions/theme-functions.php:233
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: ../functions/theme-functions.php:276
+msgid "Home"
+msgstr ""
+
+#: ../functions/theme-functions.php:328
+msgid " Search"
+msgstr ""
+
+#: ../functions/theme-functions.php:345
+msgid "&#39;s Articles"
+msgstr ""
+
+#: ../widgets/widget-call-to-action.php:147 ../widgets/widget-dribbble.php:177
+#: ../widgets/widget-flickr.php:105 ../widgets/widget-recent-portfolio.php:176
+#: ../widgets/widget-recent-posts.php:145 ../widgets/widget-skills.php:222
+#: ../widgets/widget-testimonials.php:174
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-call-to-action.php:152
+msgid "Paragraph:"
+msgstr ""
+
+#: ../widgets/widget-call-to-action.php:157
+msgid "Button 1 Text:"
+msgstr ""
+
+#: ../widgets/widget-call-to-action.php:162
+msgid "Button 1 URL:"
+msgstr ""
+
+#: ../widgets/widget-call-to-action.php:172
+#: ../widgets/widget-call-to-action.php:192
+msgid "Emphasize this Button"
+msgstr ""
+
+#: ../widgets/widget-call-to-action.php:177
+msgid "Button 2 Text:"
+msgstr ""
+
+#: ../widgets/widget-call-to-action.php:182
+msgid "Button 2 URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:220
+msgid "Image 1 Direct URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:225 ../widgets/widget-clients.php:235
+#: ../widgets/widget-clients.php:245 ../widgets/widget-clients.php:255
+#: ../widgets/widget-clients.php:265 ../widgets/widget-clients.php:275
+#: ../widgets/widget-clients.php:285 ../widgets/widget-clients.php:295
+msgid "Link URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:230
+msgid "Image 2 Direct URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:240
+msgid "Image 3 Direct URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:250
+msgid "Image 4 Direct URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:260
+msgid "Image 5 Direct URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:270
+msgid "Image 6 Direct URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:280
+msgid "Image 7 Direct URL:"
+msgstr ""
+
+#: ../widgets/widget-clients.php:290
+msgid "Image 8 Direct URL:"
+msgstr ""
+
+#: ../widgets/widget-dribbble.php:182
+msgid "<a href=\"http://www.dribbble.com/themebeans\">Dribbble</a> account:"
+msgstr ""
+
+#: ../widgets/widget-dribbble.php:187
+msgid "Number of Shots:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:110
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:115
+msgid "Type (user or group):"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:123
+msgid "Display (random or latest):"
+msgstr ""
+
+#: ../widgets/widget-intro.php:141
+msgid "Section 1:"
+msgstr ""
+
+#: ../widgets/widget-intro.php:150
+msgid "Section 2:"
+msgstr ""
+
+#: ../widgets/widget-intro.php:159
+msgid "Section 3:"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:64
+msgid "Subscribe"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:110
+msgid "Title / Intro:"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:121
+msgid "Placeholder Text:"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:127
+msgid "Subscribe Code:"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:139
+msgid "&nbsp;Shake Animate"
+msgstr ""
+
+#: ../widgets/widget-recent-portfolio.php:181
+msgid "Post Count (6, 12, 18, etc):"
+msgstr ""
+
+#: ../widgets/widget-recent-portfolio.php:192
+msgid "&nbsp;Randomize"
+msgstr ""
+
+#: ../widgets/widget-recent-portfolio.php:202
+msgid "&nbsp;Hide Overflow (Not Fullwidth)"
+msgstr ""
+
+#: ../widgets/widget-skills.php:227
+msgid "Description:"
+msgstr ""
+
+#: ../widgets/widget-skills.php:234 ../widgets/widget-skills.php:253
+#: ../widgets/widget-skills.php:272 ../widgets/widget-skills.php:291
+#: ../widgets/widget-skills.php:310
+msgid "Skill Title:"
+msgstr ""
+
+#: ../widgets/widget-skills.php:239 ../widgets/widget-skills.php:258
+#: ../widgets/widget-skills.php:277 ../widgets/widget-skills.php:296
+#: ../widgets/widget-skills.php:315
+msgid "Hex:"
+msgstr ""
+
+#: ../widgets/widget-skills.php:244 ../widgets/widget-skills.php:263
+#: ../widgets/widget-skills.php:282 ../widgets/widget-skills.php:301
+#: ../widgets/widget-skills.php:320
+msgid "Per:"
+msgstr ""
+
+#: ../widgets/widget-stats.php:164
+msgid "1. Title:"
+msgstr ""
+
+#: ../widgets/widget-stats.php:169 ../widgets/widget-stats.php:183
+#: ../widgets/widget-stats.php:197 ../widgets/widget-stats.php:211
+msgid "Count:"
+msgstr ""
+
+#: ../widgets/widget-stats.php:178
+msgid "2. Title:"
+msgstr ""
+
+#: ../widgets/widget-stats.php:192
+msgid "3. Title:"
+msgstr ""
+
+#: ../widgets/widget-stats.php:206
+msgid "4. Title:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:179
+msgid "Testimonial 1:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:184
+msgid "Testimonial 2:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:189
+msgid "Testimonial 3:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:194
+msgid "Testimonial 4:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:199
+msgid "Testimonial 5:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:203
+msgid "Background Settings"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:206
+msgid "Background Image URL:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:211
+msgid "Background Height: (ex: 400px)"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:216
+msgid "BG Color: (ex: #1FB4DA)"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:227
+msgid "&nbsp;Animate Background"
+msgstr ""

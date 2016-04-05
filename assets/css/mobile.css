@@ -1,0 +1,674 @@
+/*----------------------------------------------------------------------
+ 
+	Content: Theme Mobile CSS 
+	Author:  ThemeBeans of http://www.themebeans.com
+ 
+ ----------------------------------------------------------------------*/
+
+@media only screen and (max-width : 1000px) {
+	.single-portfolio .jp-progress {
+		width: 67%!important;
+	}	
+	
+	div.jp-progress { width: 62%; }
+}
+
+
+@media only screen and (max-width : 890px) {
+	.eight.columns.sidebar-left.mobile-four,
+	.eight.columns.sidebar-right.mobile-four {
+		border: none;
+	}
+}
+
+
+/*--------------------------------------------------------------------*/
+/*	PRIMARY MOBILE CSS (THIRD CUT)
+/*--------------------------------------------------------------------*/
+@media only screen and (max-width : 767px) {	
+	/* MAIN */
+		#toTop { display: none!important; }
+		
+		#primary-container {
+			padding: 40px 0 0;
+		}
+		
+		.row {
+			padding: 0 30px;
+		}
+		
+		.eight.columns.sidebar-right.mobile-four {
+			padding-right: 10px;
+		}
+		
+		.eight.columns.sidebar-left.mobile-four {
+			padding-left: 10px;
+		}
+		
+		
+	/* HEADER */
+		#header-dropin { display: none!important;}
+		
+		#header-container {
+			padding: 20px 0;
+		}
+		
+		.hidden-sidebar {
+			padding-top: 37px;
+		}
+		
+		.logged-in .hidden-sidebar {
+			padding-top: 65px;
+		}
+		
+		.sidebar-btn .menu-icon {
+			background: url(../images/sprite.png) -82px -462px;
+			height: 28px;
+			right: 10px;
+			top: 24px;
+			padding: 4px;
+			position: absolute;
+			width: 36px;
+		}
+		
+		.close-btn {
+			height: 32px;
+			background-position: -138px -512px;
+			position: absolute;
+			width: 32px;
+		}
+		
+		#sub-header-container .five.columns {
+			text-align: left;
+			width: 100%!important;
+		}
+		
+		#sub-header-container .five.columns .right {
+			float: none;
+		}
+	
+	/* FOOTER */
+		#footer-container ul {
+			margin-bottom: 40px;
+		}
+		
+		#footer-container {
+			padding: 80px 30px 40px;
+		}
+		
+		#footer-container ul li {
+			display: block;
+		}
+		
+		#footer-container ul li a {
+			border-radius: 3px;
+			display: block;
+			margin-bottom: 5px;
+			padding: 4px 12px;
+			background-color: #FFF
+		}
+		
+		#footer-container ul li a:hover {
+		    background-color: #F5F5F6;
+		}
+		
+	/* HOME SLIDER */
+		.home-slide {
+			padding-top: 85px;
+			text-align: center;
+		}
+		.home-slide .row {
+			padding: 0 10px;
+		}
+		
+		.home-slide .bean-two-third.bean-column-last,
+		.home-slide .bean-two-third {
+			width: 100%;
+		}
+		
+		.bean-two-third.bean-column-last {
+			margin-top: 40px;
+		}
+		
+		.post-slider h1 {
+			font-size: 30px;
+			line-height: 35px;
+		}
+		.home-slide h2 {
+			padding: 0 30px;
+		}
+	
+		.post-slider p {
+			font-size: 14px;
+			line-height: 23px;
+			width: 100%;
+		}
+		
+		.home-slide .alignright, 
+		.home-slide img.alignright {
+			float: none;
+		}
+		
+	/* HOME TEMPLATE */
+		.bean-direction-nav,
+		.bean-home-direction-nav {
+			display: none;
+		}
+		
+		.widget_bean_intro {
+			padding: 0 50px;
+			text-align: center;
+		}
+		
+		.widget_bean_intro .four.columns {
+			margin-bottom: 30px;
+		}
+		
+		.widget_bean_intro .four.columns:last-child {
+			margin-bottom: 0px;
+		}
+		
+		.widget_bean_recent_posts ul li:last-child {
+			display: none;
+		}
+		
+		#portfolio-slider .slide .four.columns.mobile-two img {
+			height: auto;
+		}
+		.widget_bean_testimonials .post-slider h1.animated.BeanFadeFromTop {
+			-webkit-animation-delay: 0s;
+			   -moz-animation-delay: 0s;
+			    -ms-animation-delay: 0s;
+			     -o-animation-delay: 0s;
+			-webkit-animation-duration: 0s;
+			   -moz-animation-duration: 0s;
+			    -ms-animation-duration: 0s;
+			     -o-animation-duration: 0s;
+		}
+		
+		.widget_bean_cta .six.columns {
+			width: 100%;
+		}
+		
+		.widget_bean_cta h3 {
+			font-size: 17px;
+		}
+		
+		.eleven.columns.centered.action-buttons,
+		.ten.columns.centered {
+			padding: 5px 0;
+			width: 100%!important;
+		}
+		
+		.bean-stat,
+		.client-logo {
+			width: 340px;
+		}
+			
+		
+	/* BLOG */
+		.blog section.post .entry-header .nine.columns {
+		width: 100%;
+			
+		}
+		.slider-nav, 
+		.post-edit-link { display: none; }
+		
+		.format-gallery .entry-header {
+			margin-top: 20px;
+		}
+		
+		.format-image .entry-content {
+			padding: 0 20px;
+		}
+			
+		#isotope-container {
+			width: 100%;
+		}	
+	
+		.error404 #primary-container {
+			padding: 20%;
+		}
+		
+		.submit.right {
+			float: none;
+		}	
+		
+		ul.bean-contactform .button {
+			width: 100%;
+		}
+		
+		ul.bean-contactform li.six {
+			padding: 0px!important;
+			width: 100%;
+		}	
+		
+		.about-author .author-avatar {
+			padding-right: 10px;
+		}
+		.entry-content.author .ten.columns {
+			padding-left: 20px;
+		}
+		.blog .format-image .entry-content {
+			padding: 0px;
+		}
+		
+	/* PORTFOLIO STYLES --------------------------------------------------*/
+		#isotope-container.portfolio-3col {
+			margin-left: -2.5%;
+			width: 104%;
+		}
+		
+		#isotope-container.portfolio-3col .mobile-two {
+			width: 47.8%!important;
+			max-width: 100%!important;
+		}
+		
+		#isotope-container.portfolio-3col .hentry.isotope-item {
+			margin: 0 1% 40px;
+		}
+		
+		#isotope-container.portfolio-2col {
+			margin-left: -2.5%;
+			width: 104%;
+		}
+		
+		#isotope-container.portfolio-2col .mobile-two {
+			width: 47.8%!important;
+			max-width: 100%!important;
+		}
+		
+		#isotope-container.portfolio-2col .hentry.isotope-item {
+			margin: 0 1% 40px;
+		}
+	
+	/* SINGLE PORTFOLIO */
+		.single-portfolio .entry-content {
+			width: 100%;
+		}
+		
+		.single-portfolio section.type-portfolio .eight.columns.mobile-four {
+			margin-bottom:55px;
+		} 
+		
+		.single-portfolio .jp-progress {
+			width: 71%!important;
+		}
+			
+			
+						
+/* BLOG STYLES -----------------------------------------------------*/
+	/*  SINGLE POSTS */	
+		section.type-post {
+			max-width: 100%;
+		}	
+		.meta-list.single-share {
+			margin-bottom: -10px!important;
+		}
+		.fullwidth .format-audio div.jp-progress {
+			width: 71%;
+		}
+		
+		.format-video div.jp-interface{
+			max-width: 686px;
+		} 	
+			
+		div.jp-progress { width: 70%%; }
+	
+	/*  COMMENTS */	
+		#comments .nine.columns.push-three {
+			width: 100%;
+		}
+		
+		#comments-list {
+			padding-bottom: 50px;
+		}
+	
+		.comment-author {
+			margin-top: 20px;
+		}	
+			
+		.children {
+			margin-left: 40px;
+			padding-right: 0px;
+			width: 85%;
+		}	
+	
+		.children #respond,
+		.comment #respond {
+			margin: 0px 0 30px 0px;
+		}
+		
+		#commentform #submit,	
+		#commentform input[type="text"] {
+			margin-bottom: 10px;
+			width: 100%;
+		}
+				
+		.form-submit input[type="submit"] {
+			background-image: none!important;
+			padding-right: 15px;
+		}	
+			
+		.contact-submit .button[type="submit"] {
+		 	width: 100%;
+		 }
+		 	
+		#comments .ten.columns.mobile-four {
+			padding: 0px;	
+		}
+	
+	/* OTHER */	
+		.bean-coming-soon .count {
+		font-size: 60px;
+		}	
+	
+}
+
+
+/*--------------------------------------------------------------------*/
+/*	SMALLER SCREENS
+/*--------------------------------------------------------------------*/
+@media only screen and (max-width : 400px) {
+	/* HOME TEMPLATE */	
+		#toTop { display: none!important; }
+		
+		.section {
+			padding: 50px 0;
+		} 
+		
+		.hidden-sidebar .main-menu {
+			margin-bottom: 60px;
+		}
+		
+		.hidden-sidebar .main-menu li a {
+			background-color: #2E353A;
+			border-radius: 3px;
+			display: block;
+			margin-bottom: 5px;
+			padding: 4px 0 4px 12px;
+		}
+		
+		.hidden-sidebar .main-menu li a:hover {
+			background-color: #363D42;
+		}
+		
+		.section h5.widget-title {
+			margin-bottom: 20px;
+		}
+		
+		.widget_bean_intro .row {
+			padding: 0;
+		}
+		
+		.widget_bean_recent_posts .four.columns.mobile-two {
+			margin-bottom: 40px;
+			width: 100%!important;
+		}
+		
+		.widget_bean_recent_posts {
+			margin-bottom: -40px;
+		}
+		
+		.widget_bean_testimonials .row {
+			padding: 0px;
+		}	
+		
+		.section .widget_bean_tweets li span a,
+		.section .widget_bean_tweets li,
+		.widget_bean_testimonials .post-slider h1 {
+			font-size: 28px!important;
+			line-height: 30px;
+			padding: 0px;
+		}
+		
+		.bean-quote-icon {
+			display: none;
+		}	
+		
+		.ten.columns.centered {
+			padding: 5px 15px;
+			width: 100%!important;
+		}
+		
+	
+	/* BLOG & ARCHIVES */	
+		.archives-list ul li {
+			margin-left:15px;
+		}	
+		
+		div.jp-progress,
+		.format-audio div.jp-progress {
+			width: 77%;
+		}
+
+		.jp-toggles,
+		.jp-volume-bar {
+			display: none!important;
+		}
+		
+		.bean-quote {
+			width: 50%!important;
+		} 
+		
+		.post-cats {
+			display: none!important;
+		}
+		
+		.about-author {
+			text-align: center;
+		}
+		.about-author .author-avatar {
+			display: none;
+		}
+		.about-author .ten.columns {
+			width: 100%;
+		}
+	
+	/* PORTFOLIO */	
+		#portfolio-slider .post-thumb {
+			margin-bottom: 20px;
+		}	
+		
+		#isotope-container.portfolio-3col .mobile-two {
+			padding: 0px!important;
+			width: 100%!important;
+		}
+		
+		#isotope-container.portfolio-3col {
+			margin-left: 0%!important;
+			width: 100%!important;
+			
+		}
+		#isotope-container.portfolio-3col .hentry.isotope-item {
+			margin-left: 0px!important;
+			margin-right: 0px!important;
+		}
+		
+		#isotope-container.portfolio-2col .mobile-two {
+			padding: 0px!important;
+			width: 100%!important;
+		}
+		
+		#isotope-container.portfolio-2col {
+			margin-left: 0%!important;
+			width: 100%!important;
+			
+		}
+		#isotope-container.portfolio-2col .hentry.isotope-item {
+			margin-left: 0px!important;
+			margin-right: 0px!important;
+		}
+		
+		.single-portfolio .jp-progress {
+			width: 77%!important;
+		}
+	
+	/* OTHER */		
+		.page-template-page-comingsoon-php,
+		.page-template-page-comingsoon-php #primary-container {
+			padding: 10% 2%;
+		}
+			
+		.bean-coming-soon .count-inner {
+			padding: 57px 10px 30px 7px;
+		}
+		
+		.bean-coming-soon .text {
+			margin-top: 20px;
+		}
+	
+		
+	/* OVERRIDE FOR MOBILE POST THUMB */
+		.portfolio-related .portfolio-thumb,
+		.widget_bean_recent_portfolio .post-thumb {
+			background-image: url(../images/post-thumb-mobile.png);
+		}	
+		@media all and (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 192dpi) {	
+			.portfolio-related .portfolio-thumb,
+			.widget_bean_recent_portfolio .post-thumb  {
+				background-image: url(../images/retina/post-thumb-mobile@2x.png)!important;
+				background-size: 36px 36px!important;
+			}  
+		}					
+}
+
+
+/*--------------------------------------------------------------------*/
+/*	iPAD/TABLET DEVICES GENERAL 
+/*--------------------------------------------------------------------*/	
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+	body { -webkit-text-size-adjust: none; }
+	#header-dropin { display: none!important;}
+	
+	a.jp-mute span,
+	.jp-time-frame,
+	div.jp-volume-bar,
+	a.jp-mute, a.jp-unmute { 
+		display: block!important; 
+	}
+	
+	.waypoints ..post-thumb:hover,
+	.waypoints .portfolio-thumb img:hover,
+	.waypoints .widget_bean_recent_posts .post-thumb img:hover, 
+	.waypoints .widget_bean_recent_portfolio .post-thumb img:hover {
+		-webkit-transform:scale(0);
+		   -moz-transform:scale(0);
+		     -o-transform:scale(0);
+	}
+}
+ 	
+
+/*--------------------------------------------------------------------*/
+/*	iPAD LANDSCAPE
+/*--------------------------------------------------------------------*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+}
+
+		
+/*--------------------------------------------------------------------*/
+/*	iPAD PORTRAIT
+/*--------------------------------------------------------------------*/		
+@media only screen 
+and (min-device-width : 768px) 
+and (orientation : portrait){ 	
+}
+     
+    
+/*--------------------------------------------------------------------*/
+/*	iPHONE GENERAL / LANDSCAPE
+/*--------------------------------------------------------------------*/
+@media only screen 
+and (max-device-width: 320px)
+and (max-device-width : 480px) {	
+}
+
+
+/*--------------------------------------------------------------------*/
+/*	iPHONE/SMARTPHONE PORTRAIT
+/*--------------------------------------------------------------------*/
+@media only screen 
+and (max-width : 320px)
+and (orientation : portrait) {	
+div.jp-progress,
+.format-audio div.jp-progress {
+	width: 69%;
+}	
+}
+
+
+/*--------------------------------------------------------------------*/
+/*	RETINA CSS
+/*--------------------------------------------------------------------*/
+@media all and (-webkit-min-device-pixel-ratio: 1.5),
+(min-resolution: 192dpi) {	
+	#toTop,
+	.close-btn,
+	.format-icon,
+	.bean-quote-icon,
+	.bean-like-icon,
+	.widget_bean_tweets li,
+	.pagination a,
+	.widget_bean_tweets li,
+	.bean-home-direction-nav a,
+	.sidebar-btn .menu-icon,
+	.widget_search input[type="text"],
+	.bean-direction-nav .bean-prev,
+	.bean-direction-nav .bean-next {
+		background-image: url(../images/retina/sprite@2x.png);
+		background-size: 200px 650px;
+	}
+	
+	.author-icon,
+	.social-icon {
+		background-image: url(../images/retina/social@2x.png);
+		background-size: 367px 66px;
+		}
+
+	a.jp-play span,
+	a.jp-pause span,
+	a.jp-mute span,
+	a.jp-unmute span { 
+		background-image:url(../images/retina/jplayer@2x.png);
+		background-size: 30px 123px; 
+	}
+     
+	.widget_bean_cta .button.cta span.cta-arrow {
+		background-image: url(../images/retina/cta-arrow@2x.png);
+		background-size: 25px 20px;
+	}  
+	
+	.widget_bean_cta .button.cta span.cta-arrow {
+		background-image: url(../images/retina/cta-arrow@2x.png);
+		background-size: 25px 20px;
+	}  
+	
+	.post-thumb,
+	.portfolio-thumb, 
+	.widget_bean_recent_posts .post-thumb, 
+	.widget_bean_recent_portfolio .post-thumb {
+		background-image: url(../images/retina/post-thumb@2x.png);
+		background-size: 76px 76px;
+	}		
+	
+	.bean-shot {
+		background-image:url(../images/retina/dribbble-overlay@2x.png);
+		background-size: 75px 19px;
+	}	
+	
+	.flickr_badge_image a {
+		background-image:url(../images/retina/flickr-overlay@2x.png);
+		background-size: 21px 10px;
+	}
+	
+	.hidden-sidebar .widget_bean_tweets li {
+		background-image:url(../images/retina/twitter-dark@2x.png);
+		background-size: 21px 15px;
+	}
+				
+}

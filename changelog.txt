@@ -1,0 +1,57 @@
+1.5.1 - Aug 10, 2014
+
+** Krative Changelog **
+
+10 August 2014 - Version 1.5.1
+     * Chrome fadein fix - removed animation
+     * Support for Bean 500px plugin
+     * Updated languages
+
+5 May 2014 - Version 1.5.0
+     * Retina.js update
+     * Breadcrumbs function update
+     * Screenshot.png update
+     * Sidebar menu close btn fix
+     * Portfolio archive clean up
+     * Recent portfolio widget ordering fix
+     * Languages update
+     
+12 Feb 2014 - Version 1.4.2
+     * Support for Bean Shortcodes 2.0+
+     * Comment form label bug fix
+
+22 Jan 2014 - Version 1.4.1
+     * Retina.js update
+
+13 Dec 2013 - Version 1.4.0
+     * WP 3.8 Patches
+     * Support for Bean Tweets 2.0+
+     * Recent posts widget ordering fix
+
+19 Nov 2013 - Version 1.3.1
+     * Portfolio media update
+
+14 Nov 2013 - Version 1.3.0
+	* Single portfolio tags
+     * Support for Bean Pricing Tables Plugin
+     * Text widget home section fix
+
+17 Oct 2013 - Version 1.2.1
+	* Portfolio mobile view fix  
+
+15 Oct 2013 - Version 1.2.0
+	* Comment form JS validation 	
+	* Text widget shortcode fix
+	* Fitvids update
+
+7 Oct 2013 - Version 1.1.2
+	* Support for Bean Social Plugin
+
+12 Sept 2013 - Version 1.1.0
+	* Portfolio w/o filter FF fix
+	* Bundled plugins maintenance	
+	* Mobile menu w/o sidebar option added
+	* CTA widget animation fix
+  
+21 Aug 2013 - Version 1.0.0
+     * Initial release
